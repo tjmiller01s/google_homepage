@@ -1,15 +1,22 @@
-#topleft {
+#topleft { 
+    display:block;
+    float: left;
+
 
 }
 
 #topright {
+    display:inline;
+    float: right;
 
 }
 .headerstyle {
-
+    
 }
-.mainlink {
-
+.mainlogo {
+    display: inline;
+    
+    
 }
 
 .footerdiv {
