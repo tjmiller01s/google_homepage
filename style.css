@@ -1,5 +1,5 @@
 #topleft { 
-    display:block;
+    display:inline;
     float: left;
 
 
@@ -10,7 +10,7 @@
     float: right;
 
 }
-.headerstyle {
+.navbar {
     
 }
 .mainlogo {
@@ -20,6 +20,7 @@
 }
 
 .footerdiv {
+    list-style-type: none;
 
 }
 #bottomleft {
