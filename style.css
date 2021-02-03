@@ -5,10 +5,27 @@
 #topright {
 
 }
+.headerstyle {
+
+}
 .mainlink {
 
 }
 
 .footerdiv {
 
+}
+#bottomleft {
+
+}
+#bottomright {
+
+}
+#bottomcenter {
+
+}
+
+body {
+    font-family: sans-serif, Arial;
+    font-size: 14px; 
 }
